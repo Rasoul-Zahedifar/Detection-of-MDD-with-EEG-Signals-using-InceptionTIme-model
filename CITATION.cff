@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Detection-of-MDD-with-EEG-Signals-using-InceptionTIme-model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alireza
+    family-names: Rafiei
+    orcid: 'https://orcid.org/0000-0001-9747-4023'
+    email: alirezarafieieng@gmail.com
+  - given-names: Rasoul
+    family-names: Zahedifar
+    email: rasoul.zahedifar75@gmail.com
+    orcid: 'https://orcid.org/0000-0002-7821-0185'
+  - given-names: Chiranjibi
+    family-names: Sitaula
+    orcid: 'https://orcid.org/0000-0002-4564-2985'
+    email: candsbro@gmail.com
+    affiliation: Honorary Fellow at The University of Melbourne
+  - given-names: Faezeh
+    family-names: Marzbanrad
+    orcid: 'https://orcid.org/0000-0003-0551-1611'
+    email: Faezeh.Marzbanrad@monash.edu
+    affiliation: Senior Lecturer at Monash University
+identifiers:
+  - type: doi
+    value: 10.1109/ACCESS.2022.3190502
+url: 'https://ieeexplore.ieee.org/document/9828387'
