@@ -34,15 +34,15 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#Data">Data</a>
+      <a href="#data">Data</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#usage">Usage</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -69,6 +69,7 @@ The original paper on InceptionTime is also accessible [here](https://arxiv.org/
 
 
 
+
 <!-- Data -->
 ### Data
 
@@ -78,6 +79,7 @@ The data used in this project comes from the [MDD Patients and Healthy Controls 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
