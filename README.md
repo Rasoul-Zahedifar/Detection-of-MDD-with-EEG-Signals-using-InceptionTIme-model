@@ -30,19 +30,10 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#data">Data</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#usage">Usage</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#data">Data</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -69,28 +60,18 @@ The original paper on InceptionTime is also accessible [here](https://arxiv.org/
 
 
 
-
 <!-- Data -->
-### Data
+## Data
 
 <div align="justify"> 
 
 The data used in this project comes from the [MDD Patients and Healthy Controls EEG Data](https://figshare.com/articles/dataset/EEG_Data_New/4244171). </div>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-In order to apply the codes, you may need to follow the steps below:
-
-
 <!-- PREREQUISITES -->
-### Prerequisites
+## Prerequisites
 
 <div align="justify"> 
 
@@ -142,7 +123,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rasoul Zahedifar - rasoul.zahedifar75@gmail.com,
+Rasoul Zahedifar - rasoul.zahedifar75@gmail.com
+
 Alireza Rafiei - alirezarafieieng@gmail.com
 
 GitHub Link: [https://github.com/Rasoul-Zahedifar/Detection-of-MDD-with-EEG-Signals-using-InceptionTime-model](https://github.com/Rasoul-Zahedifar/Detection-of-MDD-with-EEG-Signals-using-InceptionTime-model)
