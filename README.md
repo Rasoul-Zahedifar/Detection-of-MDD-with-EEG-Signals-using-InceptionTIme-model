@@ -55,7 +55,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="justify"> This repository hosts our paper titled "[Automated Detection of Major Depressive Disorder with EEG Signals: A Time Series Classification Using Deep Learning](https://ieeexplore.ieee.org/document/9828387)," which was published in [IEEE Access](https://ieeexplore.ieee.org/document/9828387). The research is dedicated to automating the identification of Major Depressive Disorder (MDD) utilizing EEG data and deep neural network architecture. Initially, a customized InceptionTime model is employed to identify MDD individuals based on 19-channel raw EEG signals. Subsequently, a channel-selection strategy consisting of three steps is applied to eliminate redundant channels.
+<div align="justify"> 
+
+This repository hosts our paper titled [Automated Detection of Major Depressive Disorder with EEG Signals: A Time Series Classification Using Deep Learning](https://ieeexplore.ieee.org/document/9828387), which was published in [IEEE Access](https://ieeexplore.ieee.org/document/9828387). The research is dedicated to automating the identification of Major Depressive Disorder (MDD) utilizing EEG data and deep neural network architecture. Initially, a customized InceptionTime model is employed to identify MDD individuals based on 19-channel raw EEG signals. Subsequently, a channel-selection strategy consisting of three steps is applied to eliminate redundant channels.
 
 The original paper on InceptionTime is also accessible [here](https://arxiv.org/pdf/1909.04939.pdf). </div>
 
@@ -70,7 +72,9 @@ The original paper on InceptionTime is also accessible [here](https://arxiv.org/
 <!-- Data -->
 ### Data
 
-<div align="justify"> The data used in this project comes from the [MDD Patients and Healthy Controls EEG Data](https://figshare.com/articles/dataset/EEG_Data_New/4244171). </div>
+<div align="justify"> 
+
+The data used in this project comes from the [MDD Patients and Healthy Controls EEG Data](https://figshare.com/articles/dataset/EEG_Data_New/4244171). </div>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,14 +90,18 @@ In order to apply the codes, you may need to follow the steps below:
 <!-- PREREQUISITES -->
 ### Prerequisites
 
-<div align="justify"> You will need to install the following packages present in the [requirements.txt](https://github.com/Rasoul_Zahedifar/Detection-of-MDD-with-EEG-Signals-using-InceptionTime-model/blob/master/requirements.txt) file. </div>
+<div align="justify"> 
+
+You will need to install the following packages present in the [requirements.txt](https://github.com/Rasoul_Zahedifar/Detection-of-MDD-with-EEG-Signals-using-InceptionTime-model/blob/master/requirements.txt) file. </div>
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<div align="justify"> The code is divided as follows: 
+<div align="justify"> 
+
+The code is divided as follows: 
 * The [Inception classifier](https://github.com/Rasoul-Zahedifar/Detection-of-MDD-with-EEG-Signals-using-InceptionTime-model/blob/414d89c2e4de0d3b786e55221074ebef585b6863/Inception%20classifier.py) python file contains the Inception module python code using Keras library.
 * The [Opening and sorting the files](https://github.com/Rasoul-Zahedifar/Detection-of-MDD-with-EEG-Signals-using-InceptionTime-model/blob/414d89c2e4de0d3b786e55221074ebef585b6863/Opening%20and%20sorting%20the%20files.py) python folder contains the steps of opening and labeling the files.
 * The [Channel selection](https://github.com/Rasoul-Zahedifar/Detection-of-MDD-with-EEG-Signals-using-InceptionTime-model/blob/414d89c2e4de0d3b786e55221074ebef585b6863/Channel%20selection.py) python file involves general concepts of the channel selections approaches. </div>
